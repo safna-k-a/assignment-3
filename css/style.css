@@ -1,0 +1,15 @@
+/* author:safna K A*/
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+.fs-5 {
+    font-size: 1.4rem !important;
+}
+.contact {
+    height: 500px;
+}
+.about {
+    color: #000;
+}
+@media screen and (max-width: 576px) {
+}
